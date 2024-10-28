@@ -1,0 +1,56 @@
+.title{
+    background: linear-gradient(90deg, rgba(9,9,121,1) 0%, rgba(9,9,121,1) 17%, rgba(9,9,121,1) 18%, rgba(1,219,87,1) 67%, rgba(0,255,81,1) 85%);
+    -webkit-background-clip: text;
+    color: transparent;
+    font-size: 95px;
+}
+.parrafo-header{
+ color: white;
+
+}
+.precio{
+    color: white;
+    font-size: 18px;
+    
+}
+.subtitulo{
+    color: rgb(0, 112, 168);
+    font-size: 18px;
+    font-weight: 800;
+    text-align: center;
+}
+.icons{
+    margin-left: 33.3%;
+    width: 33.3%;
+    height: 18%;
+}
+.sub-parrafo{
+    text-align: justify;
+}
+.fondo-chica{
+    background-image: url(/assets/img/imagen-mujer.jpg);
+    background-position: right;
+    background-repeat: no-repeat;
+}
+.tamano{
+    height: 90vh;
+}
+.img-products{
+    background-image: url(/assets/img/modelo-x.svg);
+    position: center;
+    background-repeat: no-repeat;
+}
+.img-products-y{
+    background-image: url(/assets/img/modelo-y.svg);
+    position: center;
+    background-repeat: no-repeat;
+
+}
+.session-ultimate{
+    height: 80vh;
+}
+.chica-auriculares{
+    background-image: url(/assets/img/newsletter.webp);
+    background-position: center;
+    background-repeat: no-repeat;
+}
